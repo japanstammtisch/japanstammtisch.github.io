@@ -3,42 +3,15 @@ layout: textcontent
 ---
 
 交流会へのご参加は[開催予定](/treffen)ページの赤い「Teilnehmen / 参加」ボタンを使って参加表明していただけるとありがたいですが、事前連絡がなくても、飛び込みで参加していただけます。  
-質問や提案などがあれば下記のLINEグループに参加しお聞かせください。
+参加する前に質問などがあれば、同じくその赤いボタンを押して、開いたページの下にある「Comment」の機能を使って気軽に聞いてください。
 
-Für Fragen, Anregungen, Austausch usw. haben wir eine LINE-Gruppe.<!-- und alternativ noch eine Mailingliste.-->
+Falls ihr vor dem Treffen noch Fragen habt, könnt ihr zu dem [nächsten Treffen](/treffen) unter dem
+roten Knopf "Teilnehmen / 参加" auch Kommentare schreiben.
 
 ### LINE-Gruppe
 
-![QR-Code](/assets/img/line_qr.jpg)
-<br><span id="ll"></span>
+LINEグループもありますが、スパムの対策のためにウェブサイト上のリンクを無効にするしかありませんでした。交流会に来ていただいた際に、興味があればグループに招待できます。
 
-<!--### Mailingliste
-
-Sende eine E-Mail an <span id="inb4mail" title="Nicht kopierbar."></span>lists.kit.edu, um zur Mailingliste hinzugefügt zu werden.-->
-
-<!-- undo CSS shenanigans w/ JS shenanigans-->
-<script>
-/*
-ibm = document.getElementById('inb4mail');
-ibm.innerHTML = getComputedStyle(
-    ibm, ':before'
-).getPropertyValue(
-    'content'
-).replace(
-    'р', 'p'
-).replaceAll(
-    '"', ''
-);
-ibm.title = '';
-ibm.id = '';
-*/
-
-ll_spn = document.getElementById('ll');
-ll_base = 'https://line.me/R/ti/g/';
-ll_id = 'G_GInVdWj8';
-ll_a = document.createElement('a');
-ll_a.href = ll_base + ll_id;
-ll_spn.appendChild(ll_a);
-ll_a.innerHTML = 'Link zur LINE-Gruppe';
-</script>
-<!-- end of shenanigans -->
+Für Fragen, Anregungen, Austausch usw. haben wir auch eine LINE-Gruppe. Aufgrund von sich häufenden
+Spam-Nachrichten mussten wir den Link auf der Website aber leider deaktivieren. Wenn ihr zu einem Treffen
+kommt, fügen wir euch aber gerne der Gruppe zu.
